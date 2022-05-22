@@ -13,3 +13,7 @@ p2 - https://raw.githubusercontent.com/pyANSH/dsbda/main/dataset/prac2.csv
 p7, p8, p9 - https://raw.githubusercontent.com/pyANSH/dsbda/main/dataset/titanic_p7-p8-p9.csv
 
 p4 - https://raw.githubusercontent.com/pyANSH/dsbda/main/dataset/boston_p4.csv
+
+covid - https://raw.githubusercontent.com/pyANSH/dsbda/main/dataset/covid_vaccine_statewise.csv
+
+movie - https://raw.githubusercontent.com/rashida048/Some-NLP-Projects/master/movie_dataset.csv
